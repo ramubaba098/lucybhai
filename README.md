@@ -7,7 +7,7 @@
 
 To anyone coming here to <b>clone this bot</b>, no support will be given for it. If you dare to join the support group and asks for how to run this bot, you'll be banned with no warning and you can blame no one but yourself for that.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ramubaba098/lucybhai/tree/alpha)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ramubaba098/lucybhai/tree/master)
 
 Modular Telegram Bot for managing your group with additional features.
 
