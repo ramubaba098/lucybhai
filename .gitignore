@@ -1,0 +1,16 @@
+lucifer/config.py
+lucifer/*.session
+lucifer/*.session-journal
+lucifer/config.ini
+*.pyc
+.idea/
+.project
+.pydevproject
+.directory
+.vscode
+lucifer/modules/helper_funcs/temp.txt
+lucifer/elevated_users.json
+start-3.6.bat
+*.session
+kangsticker.png
+venv
